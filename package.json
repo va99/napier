@@ -1,6 +1,6 @@
 {
-  "name": "napier",
-  "version": "1.0.0",
+  "name": "@vasudubey/napier",
+  "version": "0.1.0",
   "description": "MCP server that installs other MCP servers for you",
   "main": "index.mjs",
   "scripts": {
