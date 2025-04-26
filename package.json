@@ -1,0 +1,23 @@
+{
+  "name": "napier",
+  "version": "1.0.0",
+  "description": "MCP server that installs other MCP servers for you",
+  "main": "index.mjs",
+  "scripts": {
+    "start": "node, index.mts",  
+    "test": "eslint .",  
+    "build": "npx tsc"  
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^22.15.2",
+    "eslint": "^9.25.1",
+    "typescript": "^5.8.3"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.10.2",
+    "spawn-rx": "^5.1.2"
+  }
+}
