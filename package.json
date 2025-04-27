@@ -1,6 +1,6 @@
 {
   "name": "napier-mcp",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "MCP server that installs other MCP servers for you",
   "main": "src/index.mjs",
   "scripts": {
@@ -8,7 +8,7 @@
     "test": "eslint .",
     "build": "npx tsc"
   },
-  "keywords": [modelcontextprotocol],
+  "keywords": [mcp],
   "author": "alx",
   "license": "ISC",
   "devDependencies": {
