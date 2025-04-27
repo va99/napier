@@ -14,7 +14,7 @@ import { spawnPromise } from "spawn-rx";
 const server = new Server(
   {
     name: "napier-mcp",
-    version: "0.1",
+    version: "0.2.0",
   },
   {
     capabilities: {
