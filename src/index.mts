@@ -13,7 +13,7 @@ import { spawnPromise } from "spawn-rx";
 
 const server = new Server(
   {
-    name: "napier",
+    name: "napier-mcp",
     version: "0.1",
   },
   {
